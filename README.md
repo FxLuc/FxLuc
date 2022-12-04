@@ -1,3 +1,3 @@
-<h1>Hi, I'm Luc</h1>
+<h1 align="center">Hi, I'm Luc 👋</h1>
 
-I'm a full stack Blockchain developer.
+<p align="center">I'm a full stack Blockchain developer.</p>
